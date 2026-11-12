@@ -145,6 +145,5 @@ For obvious confidentiality reasons, the data and identifiers in this public ver
 
 - The process depends on the quality, completeness, and consistency of the source workbooks.
 - Input paths, workbook layouts, sheet names, and some rules are environment-specific.
-- The P_Type_1 assembly workflow is explicitly incomplete and does not map assemblies to their child parts.
 - No production datasets or pinned dependency versions are provided.
 - Screening outputs are preliminary decision-support results and must be reviewed by qualified engineering and manufacturing stakeholders before any production decision.
